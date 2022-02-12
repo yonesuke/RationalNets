@@ -20,6 +20,6 @@ from rationalnets import RationalMLP
 
 model = RationalMLP([12, 8, 4])
 batch = jnp.ones((32, 10))
-variables = model.init(jax.random.PRNGKey(0), batch)
+variables = model.init(random.PRNGKey(0), batch)
 output = model.apply(variables, batch)
 ```
