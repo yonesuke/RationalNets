@@ -9,7 +9,7 @@ Original
 ## Installation
 RationalNets can be installed with pip directly from GitHub, with the following command:
 ```
-pip install git+git://github.com/yonesuke/RationalNets.git
+pip install git+https://github.com/yonesuke/RationalNets.git
 ```
 
 ## QuickStart
