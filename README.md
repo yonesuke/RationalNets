@@ -1,4 +1,7 @@
 # rationalnets
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/rationalnets)
+![PyPI](https://img.shields.io/pypi/v/rationalnets)
+
 JAX/Flax implementation of rational neural nets.
 
 ![](images/activation_fn.png)
